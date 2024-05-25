@@ -1,6 +1,7 @@
-# Kỹ thuật lập trình
-Project Cuối kỳ của học phần Kỹ thuật lập trình
-Chủ đề: Xây dựng thư viện tiện ích tính toán ma trận số thực  
-Code được chia làm 3 module  
-Các file Ma trận... .txt là dữ liệu đầu vào  
-Các file Kết quả... .txt là dữ liệu ra  
+# Programming Techniques
+Final Project of the Programming Techniques Course
+Topic: Developing a Utility Library for Real Matrix Calculations
+
+The code is divided into 3 modules.
+The files Matrix... .txt are input data.
+The files Result... .txt are output data.
